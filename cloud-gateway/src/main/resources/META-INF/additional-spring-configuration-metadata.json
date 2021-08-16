@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "hystrix.command.fallbackcmd",
+      "type": "java.lang.String",
+      "description": "Description for hystrix.command.fallbackcmd."
+    },
+    {
+      "name": "hystrix.command.fallbackcmd.execution.isolation.thread.timeoutInMilliseconds",
+      "type": "java.lang.String",
+      "description": "Description for hystrix.command.fallbackcmd.execution.isolation.thread.timeoutInMilliseconds."
+    }
+  ] }
